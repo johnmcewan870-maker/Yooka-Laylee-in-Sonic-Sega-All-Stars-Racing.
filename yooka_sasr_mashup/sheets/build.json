@@ -1,0 +1,17 @@
+{
+  "columns": ["id","host_game","steam_app_id","engine","mode","install_route","melty_loader","package_recipe","one_click_verified","status"],
+  "rows": [
+    {
+      "id":"v1",
+      "host_game":"Sonic & SEGA All-Stars Racing",
+      "steam_app_id":34190,
+      "engine":"Sumo Digital Sunshine Engine",
+      "mode":"solo",
+      "install_route":"UNVERIFIED",
+      "melty_loader":"UNVERIFIED",
+      "package_recipe":"UNVERIFIED",
+      "one_click_verified":false,
+      "status":"BLOCKED until host files and Melty tooling are accessible"
+    }
+  ]
+}

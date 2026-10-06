@@ -1,0 +1,23 @@
+{
+  "columns": ["id","racer_id","event_set","source_policy","host_audio_format","files","status"],
+  "rows": [
+    {
+      "id":"yooka_laylee_voice",
+      "racer_id":"yooka_laylee",
+      "event_set":["select","start","boost","hit","allstar","victory","defeat"],
+      "source_policy":"new/original recordings or properly licensed assets only",
+      "host_audio_format":"UNVERIFIED",
+      "files":"UNVERIFIED",
+      "status":"events defined; assets and format unverified"
+    },
+    {
+      "id":"quill_leaf_boost",
+      "racer_id":"yooka_laylee",
+      "event_set":["boost_start","boost_loop","boost_end"],
+      "source_policy":"new/original SFX only",
+      "host_audio_format":"UNVERIFIED",
+      "files":"UNVERIFIED",
+      "status":"effect defined; assets and format unverified"
+    }
+  ]
+}

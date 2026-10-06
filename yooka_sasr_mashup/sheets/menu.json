@@ -1,0 +1,15 @@
+{
+  "columns": ["id","racer_id","display_name","portrait_asset","icon_asset","menu_string_hook","character_index_hook","status"],
+  "rows": [
+    {
+      "id":"yooka_laylee_menu",
+      "racer_id":"yooka_laylee",
+      "display_name":"Yooka & Laylee",
+      "portrait_asset":"UNVERIFIED",
+      "icon_asset":"UNVERIFIED",
+      "menu_string_hook":"UNVERIFIED",
+      "character_index_hook":"UNVERIFIED",
+      "status":"copy locked; host menu hooks unverified"
+    }
+  ]
+}

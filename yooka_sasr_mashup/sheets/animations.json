@@ -1,0 +1,19 @@
+{
+  "columns": ["id","racer_id","idle","steer_left","steer_right","boost","hit","victory","defeat","partner_reactions","host_animation_format","status"],
+  "rows": [
+    {
+      "id":"yooka_laylee_race",
+      "racer_id":"yooka_laylee",
+      "idle":"Yooka grips wheel; Laylee scans around",
+      "steer_left":"paired lean left",
+      "steer_right":"paired lean right",
+      "boost":"Yooka braces; Laylee cheers",
+      "hit":"both recoil",
+      "victory":"Yooka celebrates while Laylee flaps overhead",
+      "defeat":"Yooka slumps; Laylee gestures in frustration",
+      "partner_reactions":"Laylee reacts to overtakes, hits and All-Star",
+      "host_animation_format":"UNVERIFIED",
+      "status":"animation list defined; format/export unverified"
+    }
+  ]
+}

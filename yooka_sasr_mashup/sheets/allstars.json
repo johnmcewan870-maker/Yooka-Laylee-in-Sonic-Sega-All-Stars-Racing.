@@ -1,0 +1,17 @@
+{
+  "columns": ["id","racer_id","name","activation","effect","visuals","audio_ref","host_allstar_basis","hook_points","status"],
+  "rows": [
+    {
+      "id":"pagie_power_allstar",
+      "racer_id":"yooka_laylee",
+      "name":"Pagie Power",
+      "activation":"standard All-Star pickup/activation flow",
+      "effect":"temporary high-speed empowered state; exact handling effect to match a safe host mechanic",
+      "visuals":"Pagies/Quills swirl around kart with jungle-magical burst",
+      "audio_ref":"yooka_laylee_voice",
+      "host_allstar_basis":"UNVERIFIED",
+      "hook_points":"UNVERIFIED",
+      "status":"concept defined; host implementation unverified"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "columns": ["id","purpose","host_file_or_system","method","verified_from","status"],
+  "rows": [
+    {"id":"character_registry","purpose":"make Yooka & Laylee selectable","host_file_or_system":"UNVERIFIED","method":"UNVERIFIED","verified_from":"needs installed host files","status":"UNVERIFIED"},
+    {"id":"vehicle_registry","purpose":"bind custom kart","host_file_or_system":"UNVERIFIED","method":"UNVERIFIED","verified_from":"needs installed host files","status":"UNVERIFIED"},
+    {"id":"model_loader","purpose":"load racer and kart models","host_file_or_system":"UNVERIFIED","method":"UNVERIFIED","verified_from":"needs installed host files and converter round-trip","status":"UNVERIFIED"},
+    {"id":"animation_loader","purpose":"load race animations","host_file_or_system":"UNVERIFIED","method":"UNVERIFIED","verified_from":"needs installed host files","status":"UNVERIFIED"},
+    {"id":"audio_events","purpose":"bind custom voice/SFX","host_file_or_system":"UNVERIFIED","method":"UNVERIFIED","verified_from":"needs installed host files","status":"UNVERIFIED"},
+    {"id":"allstar_hook","purpose":"custom All-Star move","host_file_or_system":"UNVERIFIED","method":"UNVERIFIED","verified_from":"needs installed host files","status":"UNVERIFIED"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "columns": ["id","name","theme","primary_palette","materials","decorations","handling_profile","host_vehicle_basis","model_asset","collision_profile","wheel_hooks","boost_effect","status"],
+  "rows": [
+    {
+      "id":"yooka_jungle_kart",
+      "name":"Yooka Jungle Kart",
+      "theme":"bright jungle adventure",
+      "primary_palette":["green","purple"],
+      "materials":["painted bodywork","wood trim"],
+      "decorations":["Quill motifs"],
+      "handling_profile":"balanced starter-friendly",
+      "host_vehicle_basis":"UNVERIFIED",
+      "model_asset":"UNVERIFIED",
+      "collision_profile":"UNVERIFIED",
+      "wheel_hooks":"UNVERIFIED",
+      "boost_effect":"quill_leaf_boost",
+      "status":"visual/gameplay concept locked; host integration unverified"
+    }
+  ]
+}

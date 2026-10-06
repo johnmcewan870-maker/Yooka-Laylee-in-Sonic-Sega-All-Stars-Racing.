@@ -1,0 +1,21 @@
+{
+  "columns": ["id","display_name","driver","partner","host_slot_strategy","selection_entry","solo_enabled","model_asset","skeleton_mapping","animation_set","voice_set","vehicle_id","allstar_id","status"],
+  "rows": [
+    {
+      "id":"yooka_laylee",
+      "display_name":"Yooka & Laylee",
+      "driver":"Yooka",
+      "partner":"Laylee",
+      "host_slot_strategy":"UNVERIFIED",
+      "selection_entry":"Character select screen",
+      "solo_enabled":true,
+      "model_asset":"UNVERIFIED",
+      "skeleton_mapping":"UNVERIFIED",
+      "animation_set":"yooka_laylee_race",
+      "voice_set":"yooka_laylee_voice",
+      "vehicle_id":"yooka_jungle_kart",
+      "allstar_id":"pagie_power_allstar",
+      "status":"design-complete; host integration unverified"
+    }
+  ]
+}
